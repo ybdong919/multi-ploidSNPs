@@ -1,0 +1,5 @@
+AC-Goliath-19-10_S26_L001_R1_001.fastq/4
+AC-Goliath-19-11_S27_L001_R1_001.fastq/4
+AC-Goliath-19-12_S28_L001_R1_001.fastq/4
+AC-Goliath-19-13_S29_L001_R1_001.fastq/4
+AC-Goliath-19-14_S30_L001_R1_001.fastq/4
